@@ -1,2 +1,2 @@
 # MIT-Maker-Portfolio
-Class of '29
+Code for maker portfolio project
